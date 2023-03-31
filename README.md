@@ -50,6 +50,6 @@ Et laissez la magie faire :)
 
 Vous trouverez facilement des ressources pour vous indiquer les meilleurs prompt.
 
-### Quel prompt a tu utilisé ?
+### Quel prompt as tu utilisé ?
 
 Le prompt utilisé pour cette démonstration est disponible sur ce dépôt.
